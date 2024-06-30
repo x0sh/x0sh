@@ -1,16 +1,25 @@
-## Hi there 👋
+<h3 align="left">Hello World '-' !!</h3>
 
-<!--
-**x0sh/x0sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h6 align="left">[  java - js - python - php - html - css - c++ - sql - bash - ruby  ]</h6>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<img align="right" height="130" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<h6 align="left">views</h6>
+
+###
+
+<img align="left" src="https://profile-counter.glitch.me/x0sh/count.svg?"  />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/x0sh/x0sh/output/snake.svg" alt="Snake animation" />
+
+###
