@@ -20,6 +20,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/x0sh/x0sh/output/snake.svg" alt="Snake animation" />
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" alt="Snake animation" />
 
 ###
