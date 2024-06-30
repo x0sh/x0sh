@@ -6,10 +6,6 @@
 
 ###
 
-<img align="right" height="130" src=""  />
-
-###
-
 <h6 align="left">views</h6>
 
 ###
