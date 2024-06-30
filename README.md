@@ -14,7 +14,7 @@
 
 ###
 
-<img align="left" src="https://profile-counter.glitch.me/x0sh/count.svg?"  />
+<img align="left" src="https://profile-counter.glitch.me/x0sh/count.svg"  />
 
 ###
 
