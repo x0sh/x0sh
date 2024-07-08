@@ -1,8 +1,8 @@
-<h3 align="left" style="color:#00ff00;">Hello World '-' !!</h3>
+<h2 align="left" style="color:#00ff00;">Hello World '-' !</h2>
 
 ###
 
-<h5 align="left"> [+] ~ java - Js - Python - Php - Html - Css - C++ - Sql - Bash - Ruby - Dart <3 </h5>
+<h5 align="left"> [+] ~ java - js - Python - php - html - Css - C++ - Sql - Bash - Ruby - Dart <3 </h5>
 
 ###
 
