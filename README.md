@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left"> [+] java - Js - Python - Php - Html - Css - C++ - Sql - Bash - Ruby - Dart </h5>
+<h5 align="left"> [+] ~ java - Js - Python - Php - Html - Css - C++ - Sql - Bash - Ruby - Dart <3 </h5>
 
 ###
 
